@@ -60,8 +60,4 @@ I enjoy building practical AI solutions and transforming complex data into meani
 </p>
 
 
----
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aleynatasdemir&show_icons=true&theme=dark)
