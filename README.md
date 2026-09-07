@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="https://huggingface.co/YOUR_HF_USERNAME"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=flat-square&logoColor=black" alt="Hugging Face"></a>
-  <a href="https://arxiv.org/a/YOUR_ARXIV_ID"><img src="https://img.shields.io/badge/arXiv-B31B1B?style=flat-square&logo=arxiv&logoColor=white" alt="arXiv"></a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://huggingface.co/aleynatasdemir"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=flat-square&logoColor=black" alt="Hugging Face"></a>
+  <a href="https://arxiv.org/search/?searchtype=author&query=Tasdemir%2C+H+A"><img src="https://img.shields.io/badge/arXiv-B31B1B?style=flat-square&logo=arxiv&logoColor=white" alt="arXiv"></a>
+  <a href="https://www.linkedin.com/in/aleyna-tasdemir/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:aleynattasdemir@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
