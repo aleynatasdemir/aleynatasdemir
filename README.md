@@ -40,7 +40,7 @@ A late-interaction (ColBERT-style) retriever built on top of the Mogan encoder l
 
 ## MoganAI — a Turkish foundation model family, built from scratch
 
-A team effort with [@FURKAN](https://github.com/YOUR_TEAMMATE_1) and [@FARUK](https://github.com/YOUR_TEAMMATE_2), self-funded, run on rented GPUs.
+A team effort with Furkan Yılmaz and Faruk Gözay, self-funded, run on rented GPUs.
 
 | | |
 |---|---|
