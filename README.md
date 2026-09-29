@@ -63,8 +63,6 @@ A team effort with Furkan Yılmaz and Faruk Gözay, self-funded, run on rented G
 
 ## Applied work
 
-**Dense retrieval for e-commerce search**
-First-stage candidate retrieval over large-scale product and query data — embedding model fine-tuning, hard negative mining from behavioral signals, ANN indexing, and retrieval quality analysis. Findings along the way: a train/serve prefix mismatch in multilingual GTE fine-tuning (bare-query serving beat prefixed serving), and label-scale saturation in weighted MultipleNegativesRankingLoss.
 
 **AI Triage — Turkish emergency-department triage LLM**
 LoRA fine-tuning on a 26B instruction model for Turkish ED triage practice, trained on 6,475 synthetic dialogues, served behind a RAG-backed clinical decision layer (FastAPI · PostgreSQL · vector DB · React).
